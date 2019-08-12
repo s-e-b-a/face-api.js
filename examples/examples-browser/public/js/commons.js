@@ -69,6 +69,10 @@ function renderNavBar(navbarId, exampleUri) {
       name: 'Webcam Age and Gender Recognition'
     },
     {
+      uri: 'webcam_mixed_recognition',
+      name: 'Webcam Mixed Recognition'
+    },
+    {
       uri: 'bbt_face_landmark_detection',
       name: 'BBT Face Landmark Detection'
     },
